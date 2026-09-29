@@ -1041,20 +1041,60 @@ We are open to collaboration with:
 
 ---
 
+<a name="contact"></a>
+
+## 📞 Let's Build Something Meaningful
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:020617&height=150&section=footer&animation=fadeIn" width="100%"/>
+# VITECH AFRICA LTD
 
-### 💙 VITECH AFRICA
+### Software Engineering · AI · Digital Products · Cloud · Design
 
-## ENGINEERING THE DIGITAL FUTURE OF AFRICA
+<br/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=vitech-africa-ltd&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
-
-<br><br>
-
-`© 2026 Vitech Africa Ltd — All Rights Reserved`
+<a href="mailto:contact.vabidriss@gmail.com">
+<img src="https://img.shields.io/badge/📧%20BUSINESS%20CONTACT-2563EB?style=for-the-badge" alt="Business Contact"/>
+</a>
 
 </div>
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+<a href="https://github.com/vitech-africa-ltd">
+<img src="https://img.shields.io/badge/💻%20GITHUB%20ORGANIZATION-020617?style=for-the-badge&logo=github&logoColor=white" alt="Vitech Africa GitHub organization"/>
+</a>
+
+<a href="mailto:contact.vabidriss@gmail.com">
+<img src="https://img.shields.io/badge/📧%20BUSINESS-2563EB?style=for-the-badge" alt="Business email"/>
+</a>
+
+</div>
+
+> Additional website, LinkedIn, YouTube, WhatsApp and repository buttons should be connected here once their verified destinations are available.
+
+---
+
+<div align="center">
+
+<a href="#home">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1D4ED8,50:0F172A,100:020617&section=footer&animation=fadeIn" alt="Vitech Africa footer"/>
+</a>
+
+# VITECH AFRICA
+
+### ENGINEERING THE DIGITAL FUTURE OF AFRICA
+
+**Software • AI • Cloud • Design**
+
+<br/>
+
+© 2026 **VITECH AFRICA LTD** · All Rights Reserved.
+
+</div>
+
+
