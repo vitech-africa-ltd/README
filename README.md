@@ -1,21 +1,22 @@
-<!-- ========================================================= -->
-<!--                  VITECH AFRICA LTD                        -->
-<!--             PREMIUM GITHUB PROFILE README                 -->
-<!-- ========================================================= -->
+<!-- ============================================================ -->
+<!--                 VITECH AFRICA LTD                            -->
+<!--       PREMIUM / ANIMATED / ENGINEERING PROFILE              -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-# 🌍 VITECH AFRICA LTD
-
-### `Technology • Software Engineering • Digital Transformation`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=Building+the+Digital+Future+of+Africa;Senior+Software+Engineering;Web+%7C+Mobile+%7C+Desktop+%7C+Cloud;AI+%7C+Automation+%7C+Digital+Transformation;Turning+Ideas+Into+Real+Digital+Products" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=VITECH%20AFRICA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Digital%20Transformation&descAlignY=60&descSize=18&animation=fadeIn"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/VITECH%20AFRICA-LTD-2563EB?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-16A34A?style=for-the-badge">
-<img src="https://img.shields.io/badge/FOCUS-AFRICA-111827?style=for-the-badge">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=700&color=2563EB&center=true&vCenter=true&width=900&lines=ENGINEERING+THE+DIGITAL+FUTURE+OF+AFRICA;FULL+STACK+SOFTWARE+ENGINEERING;WEB+%7C+MOBILE+%7C+DESKTOP+%7C+CLOUD;AI+%7C+AUTOMATION+%7C+BUSINESS+SYSTEMS;UI%2FUX+%7C+GRAPHIC+DESIGN+%7C+DIGITAL+PRODUCTS;FROM+IDEA+TO+PRODUCTION" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ENGINEERING-FULL%20STACK-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-AUTOMATION-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CLOUD-VERCEL-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-16A34A?style=for-the-badge"/>
 
 </div>
 
@@ -25,15 +26,9 @@
 
 <div align="center">
 
-[🏠 HOME](#-home) •
-[👨‍💻 ABOUT](#-about) •
-[⚡ SERVICES](#-services) •
-[🛠️ STACK](#️-technology-stack) •
-[🚀 PROJECTS](#-projects) •
-[📊 GITHUB](#-github-analytics) •
-[📅 ACTIVITY](#-contribution-activity) •
-[🌍 VISION](#-our-vision) •
-[📞 CONTACT](#-contact)
+| 🏠 | 👨‍💻 | ⚡ | 🛠️ | 🚀 | 🌐 | 📊 | 📅 | 🏆 | 📞 |
+|---|---|---|---|---|---|---|---|---|---|
+| [HOME](#-home) | [ABOUT](#-about) | [SERVICES](#-services) | [STACK](#-technology-stack) | [PROJECTS](#-projects) | [VERCEL](#-vercel-live-projects) | [GITHUB](#-github-analytics) | [ACTIVITY](#-live-activity) | [ACHIEVEMENTS](#-achievements) | [CONTACT](#-contact) |
 
 </div>
 
@@ -43,17 +38,20 @@
 
 <div align="center">
 
-## 🚀 VITECH AFRICA
+## 🌍 VITECH AFRICA LTD
 
-### Engineering Digital Solutions For Africa
+### `Technology • Engineering • Innovation • Design`
 
-We design, develop and deploy **modern, scalable and professional
-digital products** for businesses, institutions, organizations and
-entrepreneurs.
+> **We transform ideas, business problems and operational challenges into modern digital products.**
 
 <br>
 
-`SOFTWARE` · `AI` · `WEB` · `MOBILE` · `CLOUD` · `DESIGN`
+<img src="https://img.shields.io/badge/WEB-Development-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/MOBILE-Development-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/DESKTOP-Software-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-Systems-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/CLOUD-Engineering-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/DESIGN-UI%2FUX-F97316?style=flat-square"/>
 
 </div>
 
@@ -61,177 +59,27 @@ entrepreneurs.
 
 # 👨‍💻 ABOUT
 
-## Who We Are
+**Vitech Africa Ltd** is a technology and digital engineering company focused on designing, developing and deploying professional software solutions.
 
-**Vitech Africa Ltd** is a technology company specialized in:
-
-- Software Engineering
-- Web Development
-- Mobile Development
-- Business Management Systems
-- Artificial Intelligence
-- Cloud Applications
-- API Integration
-- Digital Transformation
-- UI/UX Design
-- Graphic Design
-
-Our approach combines:
-
-> **Engineering + Design + Business + Innovation**
-
-to transform ideas into real-world digital products.
-
----
-
-# ⚡ SERVICES
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 SOFTWARE ENGINEERING
-
-- Enterprise applications
-- Business management systems
-- ERP
-- CRM
-- Inventory systems
-- Accounting systems
-- School management systems
-- Hospital management systems
-- Custom software
-
-</td>
-
-<td width="50%">
-
-### 🌐 WEB DEVELOPMENT
-
-- Corporate websites
-- Web applications
-- E-commerce
-- Dashboards
-- SaaS platforms
-- Admin panels
-- APIs
-- Progressive Web Apps
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📱 MOBILE
-
-- Android applications
-- Flutter applications
-- Cross-platform applications
-- Mobile dashboards
-- API integration
-- Mobile payment systems
-
-</td>
-
-<td>
-
-### 🤖 ARTIFICIAL INTELLIGENCE
-
-- AI assistants
-- AI integrations
-- Automation
-- Business intelligence
-- Data analysis
-- Intelligent applications
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🎨 DESIGN
-
-- UI/UX
-- Brand identity
-- Logo design
-- Graphic design
-- Social media design
-- Marketing materials
-
-</td>
-
-<td>
-
-### ☁️ CLOUD & DEVOPS
-
-- Vercel
-- GitHub
-- CI/CD
-- Cloud deployment
-- Database deployment
-- Production monitoring
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ TECHNOLOGY STACK
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap" />
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,cs,dotnet" />
-
-</p>
-
-## Mobile
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,android" />
-
-</p>
-
-## Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase" />
-
-</p>
-
-## Tools & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,npm,figma,vscode" />
-
-</p>
-
----
-
-# 📊 TECHNOLOGY EXPERTISE
+Our engineering philosophy combines:
 
 ```text
-Software Engineering       ████████████████████  95%
-Web Development            ████████████████████  95%
-API Integration            ██████████████████░░  90%
-UI / UX                    ██████████████████░░  90%
-Database Engineering       █████████████████░░░  85%
-Mobile Development         █████████████████░░░  85%
-Cloud & Deployment         ████████████████░░░░  80%
-Artificial Intelligence    ████████████████░░░░  80%
-Cybersecurity              ███████████████░░░░░  75%
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│       BUSINESS REQUIREMENTS                         │
+│                    ↓                                │
+│              SOFTWARE ENGINEERING                   │
+│                    ↓                                │
+│                UI / UX DESIGN                       │
+│                    ↓                                │
+│              SYSTEM ARCHITECTURE                    │
+│                    ↓                                │
+│               DEVELOPMENT                           │
+│                    ↓                                │
+│                 TESTING                             │
+│                    ↓                                │
+│              CLOUD DEPLOYMENT                       │
+│                    ↓                                │
+│             PRODUCTION PRODUCT                      │
+│                                                     │
+└─────────────────────────────────────────────────────┘
