@@ -272,7 +272,11 @@ The Vitech Africa digital presence and service overview.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitech-africa-ltd&bg_color=ffffff00&color=2563EB&line=2563EB&point=0F172A&area=true&hide_border=true&custom_title=Vitech%20Africa%20Development%20Activity" width="100%" alt="GitHub activity graph"/>
+## 📈 Vitech Africa — Development Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph-tan-beta.vercel.app/graph?username=vitech-africa-ltd&bg_color=ffffff00&color=2563EB&line=2563EB&point=0F172A&area=true&hide_border=true&custom_title=Vitech%20Africa%20Development%20Activity" width="100%" alt="Vitech Africa GitHub Development Activity"/>
+</p>
 
 </div>
 
