@@ -1,1100 +1,322 @@
-<!-- ============================================================= -->
-
-<!--                 VITECH AFRICA LTD                             -->
-
-<!--          PREMIUM GITHUB ENGINEERING PROFILE                   -->
-
-<!-- ============================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1D4ED8,75:2563EB,100:38BDF8&height=240&section=header&text=VITECH%20AFRICA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%20%E2%80%A2%20DIGITAL%20TRANSFORMATION&descAlignY=61&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1D4ED8,75:2563EB,100:38BDF8&height=240&section=header&text=VITECH%20AFRICA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20DIGITAL%20INNOVATION&descAlignY=61&descSize=16&animation=fadeIn" width="100%" alt="Vitech Africa banner"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=650&color=2563EB&center=true&vCenter=true&width=900&lines=ENGINEERING+THE+DIGITAL+FUTURE+OF+AFRICA;FULL+STACK+SOFTWARE+ENGINEERING;WEB+%7C+MOBILE+%7C+DESKTOP+%7C+CLOUD;AI+%7C+AUTOMATION+%7C+BUSINESS+SYSTEMS;UI%2FUX+%7C+GRAPHIC+DESIGN+%7C+DIGITAL+PRODUCTS;FROM+IDEA+TO+PRODUCTION" />
-
-<br><br>
-
-<a href="#-vercel-live-projects">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20PROJECTS-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="#-github-analytics">
-<img src="https://img.shields.io/badge/📊%20ANALYTICS-7C3AED?style=for-the-badge"/>
-</a>
-
-<a href="#-technology-stack">
-<img src="https://img.shields.io/badge/🛠️%20TECH%20STACK-0F172A?style=for-the-badge"/>
-</a>
-
-<a href="#-contact">
-<img src="https://img.shields.io/badge/🤝%20CONTACT-16A34A?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ENGINEERING-FULL%20STACK-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-AUTOMATION-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/CLOUD-VERCEL-000000?style=flat-square&logo=vercel"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-16A34A?style=flat-square"/>
-
-</div>
-
----
-
-# 🧭 PREMIUM NAVIGATION
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<a href="#-home">
-<b>🏠</b><br>
-HOME
-</a>
-</td>
-
-<td align="center">
-<a href="#-about">
-<b>👨‍💻</b><br>
-ABOUT
-</a>
-</td>
-
-<td align="center">
-<a href="#-services">
-<b>⚡</b><br>
-SERVICES
-</a>
-</td>
-
-<td align="center">
-<a href="#-technology-stack">
-<b>🛠️</b><br>
-STACK
-</a>
-</td>
-
-<td align="center">
-<a href="#-projects">
-<b>🚀</b><br>
-PROJECTS
-</a>
-</td>
-
-<td align="center">
-<a href="#-vercel-live-projects">
-<b>▲</b><br>
-VERCEL
-</a>
-</td>
-
-<td align="center">
-<a href="#-github-analytics">
-<b>📊</b><br>
-ANALYTICS
-</a>
-</td>
-
-<td align="center">
-<a href="#-contribution-calendar">
-<b>📅</b><br>
-ACTIVITY
-</a>
-</td>
-
-<td align="center">
-<a href="#-contact">
-<b>📞</b><br>
-CONTACT
-</a>
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🏠 HOME
-
-<div align="center">
-
-## 🌍 VITECH AFRICA LTD
-
-### `Technology • Engineering • Innovation • Design`
-
-<br>
-
-> **We transform ideas, business problems and operational challenges into modern digital products.**
-
-<br>
-
-<table>
-<tr>
-
-<td align="center">
-<b>💻 SOFTWARE</b><br>
-Engineering
-</td>
-
-<td align="center">
-<b>🌐 WEB</b><br>
-Applications
-</td>
-
-<td align="center">
-<b>📱 MOBILE</b><br>
-Solutions
-</td>
-
-<td align="center">
-<b>🤖 AI</b><br>
-Automation
-</td>
-
-<td align="center">
-<b>☁️ CLOUD</b><br>
-Deployment
-</td>
-
-<td align="center">
-<b>🎨 DESIGN</b><br>
-UI / UX
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 👨‍💻 ABOUT
-
-<div align="center">
-
-### VITECH AFRICA
-
-**Software Engineering • Digital Products • AI • Design**
-
-</div>
-
-**Vitech Africa Ltd** is a technology and digital engineering company focused on designing, developing and deploying professional digital solutions for businesses, institutions, organizations and entrepreneurs.
-
-Our engineering philosophy combines:
-
-```text
-BUSINESS
-   │
-   ▼
-DISCOVERY
-   │
-   ▼
-ARCHITECTURE
-   │
-   ▼
-UI / UX
-   │
-   ▼
-DEVELOPMENT
-   │
-   ▼
-TESTING
-   │
-   ▼
-SECURITY
-   │
-   ▼
-CLOUD
-   │
-   ▼
-PRODUCTION
-   │
-   ▼
-MONITORING
-   │
-   ▼
-CONTINUOUS IMPROVEMENT
-```
-
----
-
-# ⚡ SERVICES
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-## 💻 SOFTWARE
-
-* Enterprise applications
-* Business management systems
-* ERP / CRM
-* Inventory systems
-* Accounting systems
-* School management
-* Hospital management
-* Custom software
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🌐 WEB
-
-* Corporate websites
-* Web applications
-* SaaS
-* E-commerce
-* Dashboards
-* Portals
-* REST APIs
-* Progressive Web Apps
-
-</td>
-
-<td width="33%" valign="top">
-
-## 📱 MOBILE
-
-* Android
-* Flutter
-* Cross-platform
-* Mobile dashboards
-* Mobile APIs
-* Payment integration
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-## 🤖 ARTIFICIAL INTELLIGENCE
-
-* AI applications
-* AI assistants
-* Automation
-* Data analysis
-* Business intelligence
-* Intelligent workflows
-
-</td>
-
-<td valign="top">
-
-## ☁️ CLOUD
-
-* Vercel
-* GitHub
-* CI/CD
-* Cloud databases
-* Deployment
-* Monitoring
-* Production systems
-
-</td>
-
-<td valign="top">
-
-## 🎨 DESIGN
-
-* UI / UX
-* Brand identity
-* Graphic design
-* Logo design
-* Design systems
-* Marketing materials
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠️ TECHNOLOGY STACK
-
-<div align="center">
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,bootstrap" />
-
-<br><br>
-
-### BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,cs,dotnet" />
-
-<br><br>
-
-### MOBILE
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,android" />
-
-<br><br>
-
-### DATABASE
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase" />
-
-<br><br>
-
-### DEVOPS • CLOUD • DESIGN
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,npm,figma,vscode" />
-
-</div>
-
----
-
-# 📊 ENGINEERING CAPABILITIES
-
-<div align="center">
-
-| DOMAIN                     | LEVEL                      |
-| -------------------------- | -------------------------- |
-| 💻 Software Engineering    | `███████████████████░` 95% |
-| 🌐 Web Development         | `███████████████████░` 95% |
-| 🔌 API Engineering         | `██████████████████░░` 90% |
-| 🎨 UI / UX                 | `██████████████████░░` 90% |
-| 🗄️ Database Engineering   | `█████████████████░░░` 85% |
-| 📱 Mobile Development      | `█████████████████░░░` 85% |
-| ☁️ Cloud Engineering       | `████████████████░░░░` 80% |
-| 🤖 Artificial Intelligence | `████████████████░░░░` 80% |
-
-</div>
-
----
-
-# 🚀 PROJECTS
-
-## ⭐ FEATURED DIGITAL PRODUCTS
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🏫 VITECH SCHOOL MANAGEMENT
-
-<img src="https://img.shields.io/badge/●%20PRODUCTION-16A34A?style=for-the-badge"/>
-
-Professional school management platform.
-
-### Modules
-
-🎓 Students
-👨‍🏫 Teachers
-🏫 Classes
-📅 Attendance
-📊 Grades
-💰 Payments
-📑 Reports
-🔐 Administration
-
-### Stack
-
-`React` `TypeScript` `Database` `Vercel`
-
-<br>
-
-<a href="https://vitechsms.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20OPEN%20LIVE%20DEMO-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/vitech-africa-ltd/s.m">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-0F172A?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏥 VITECH HOSPITAL MANAGER
-
-<img src="https://img.shields.io/badge/●%20PRODUCTION-16A34A?style=for-the-badge"/>
-
-Digital hospital management ecosystem.
-
-### Modules
-
-🧑‍⚕️ Doctors
-🧑‍🤝‍🧑 Patients
-📅 Appointments
-🩺 Medical Records
-💊 Pharmacy
-💳 Billing
-📊 Reports
-
-### Stack
-
-`React` `TypeScript` `Database` `Vercel`
-
-<br>
-
-<a href="https://vitech-hospital-manager.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20OPEN%20LIVE%20DEMO-2563EB?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-## 🦷 VITECH CLINIC DENTAIRE
-
-<img src="https://img.shields.io/badge/●%20PRODUCTION-16A34A?style=for-the-badge"/>
-
-Dental clinic management platform.
-
-### Modules
-
-🧑 Patients
-🦷 Dentists
-📅 Appointments
-🩺 Treatments
-💳 Payments
-📋 Medical History
-
-<br>
-
-<a href="https://izy-clinic.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20OPEN%20LIVE%20DEMO-2563EB?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td valign="top">
-
-## 🏪 VITECH BUSINESS MANAGER
-
-<img src="https://img.shields.io/badge/.NET%208-DESKTOP-512BD4?style=for-the-badge"/>
-
-Professional business management system.
-
-### Modules
-
-📦 Inventory
-🛒 Sales
-🧾 Purchases
-👥 Customers
-🚚 Suppliers
-💰 Expenses
-📊 Reports
-
-### Stack
-
-`C#` `WPF` `.NET 8` `SQLite`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌐 VERCEL LIVE PROJECTS
-
-<div align="center">
-
-## ▲ VERCEL DEPLOYMENT CENTER
-
-### Your production ecosystem
-
-<br>
-
-<a href="https://vercel.com/vitech-africa-ltd1/">
-<img src="https://img.shields.io/badge/▲%20VITECH%20AFRICA%20VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://vercel.com/vitech-africa-ltd-projects">
-<img src="https://img.shields.io/badge/🚀%20ALL%20VITECH%20PROJECTS-2563EB?style=for-the-badge"/>
-</a>
-
-</div>
-
-<br>
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏫 SCHOOL MANAGEMENT
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/●%20LIVE%20PRODUCTION-16A34A?style=for-the-badge&logo=vercel"/>
-
-</div>
-
-**Deployment**
-
-`vitechsms.vercel.app`
-
-**Framework**
-
-`React / TypeScript`
-
-**Hosting**
-
-`Vercel`
-
-<br>
-
-<div align="center">
-
-<a href="https://vitechsms.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-2563EB?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<a href="https://vercel.com/vitech-africa-ltd-projects">
-<img src="https://img.shields.io/badge/▲%20VIEW%20VERCEL-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/vitech-africa-ltd/s.m">
-<img src="https://img.shields.io/badge/💻%20GITHUB%20REPOSITORY-0F172A?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🦷 IZY CLINIC
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/●%20LIVE%20PRODUCTION-16A34A?style=for-the-badge&logo=vercel"/>
-
-</div>
-
-**Deployment**
-
-`izy-clinic.vercel.app`
-
-**Framework**
-
-`Web Application`
-
-**Hosting**
-
-`Vercel`
-
-<br>
-
-<div align="center">
-
-<a href="https://izy-clinic.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-2563EB?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<a href="https://vercel.com/vitech-africa-ltd-projects">
-<img src="https://img.shields.io/badge/▲%20VIEW%20DEPLOYMENT-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-### 🌍 VITECH AFRICA
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/●%20LIVE-16A34A?style=for-the-badge&logo=vercel"/>
-
-</div>
-
-**Corporate Digital Platform**
-
-`vitechafrica.vercel.app`
-
-<br>
-
-<div align="center">
-
-<a href="https://vitechafrica.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20OPEN%20WEBSITE-2563EB?style=for-the-badge"/>
-</a>
-
-</div>
-
-</td>
-
-<td valign="top">
-
-### ⭐ KIVU STARS ACADEMY
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/●%20LIVE-16A34A?style=for-the-badge&logo=vercel"/>
-
-</div>
-
-**Education Platform**
-
-`kivu-s-academy.vercel.app`
-
-<br>
-
-<div align="center">
-
-<a href="https://kivu-s-academy.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20OPEN%20LIVE%20DEMO-2563EB?style=for-the-badge"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# ▲ VERCEL WORKSPACE
-
-<div align="center">
-
-### Manage and inspect the complete Vitech Africa deployment ecosystem
-
-<br>
-
-<a href="https://vercel.com/vitech-africa-ltd1/">
-<img src="https://img.shields.io/badge/▲%20OPEN%20VITECH%20VERCEL%20WORKSPACE-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://vercel.com/vitech-africa-ltd-projects">
-<img src="https://img.shields.io/badge/🚀%20OPEN%20ALL%20VITECH%20PROJECTS-2563EB?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<a href="https://vercel.com/vitech-africa-ltd-projects">
-<img src="https://img.shields.io/badge/📦%20PROJECT%20PORTFOLIO-7C3AED?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-# 🔥 DEPLOYMENT ARCHITECTURE
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                    👨‍💻 DEVELOPMENT                    │
-│                                                      │
-│       Code • Design • Database • Features            │
-└────────────────────────┬─────────────────────────────┘
-                         │
-                         ▼
-┌──────────────────────────────────────────────────────┐
-│                    🐙 GITHUB                          │
-│                                                      │
-│       Repository • Version Control • Collaboration   │
-└────────────────────────┬─────────────────────────────┘
-                         │
-                         ▼
-┌──────────────────────────────────────────────────────┐
-│                    ⚙️ CI / CD                         │
-│                                                      │
-│             Build • Test • Validate                  │
-└────────────────────────┬─────────────────────────────┘
-                         │
-                         ▼
-┌──────────────────────────────────────────────────────┐
-│                    ▲ VERCEL                           │
-│                                                      │
-│        Deployment • Preview • Production             │
-└────────────────────────┬─────────────────────────────┘
-                         │
-                         ▼
-┌──────────────────────────────────────────────────────┐
-│                    🌐 USERS                           │
-│                                                      │
-│              Live Digital Products                   │
-└──────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-### ⚡ DEVELOPMENT STATISTICS
-
-<img src="https://github-readme-stats.vercel.app/api?username=vitech-africa-ltd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&custom_title=Vitech%20Africa%20Engineering%20Statistics" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitech-africa-ltd&hide_border=true&theme=transparent" width="49%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitech-africa-ltd&layout=donut&hide_border=true&theme=transparent&langs_count=10&custom_title=Technology%20Distribution" width="45%"/>
-
-</div>
-
----
-
-# 📈 DEVELOPMENT GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitech-africa-ltd&bg_color=ffffff00&color=2563EB&line=2563EB&point=0F172A&area=true&hide_border=true&custom_title=Vitech%20Africa%20Development%20Activity" width="100%"/>
-
-</div>
-
----
-
-# 📅 CONTRIBUTION CALENDAR
-
-<div align="center">
-
-## 🔥 GITHUB CONTRIBUTION HISTORY
-
-<img src="https://ghchart.rshah.org/2563EB/vitech-africa-ltd" alt="Vitech Africa Contribution Calendar" width="100%"/>
-
-<br><br>
-
-`LOW ACTIVITY` → `MEDIUM ACTIVITY` → `HIGH ACTIVITY`
-
-</div>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vitech-africa-ltd&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="100%"/>
-
-</div>
-
----
-
-# 📌 PROFILE INSIGHTS
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitech-africa-ltd&theme=transparent" width="100%"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitech-africa-ltd&theme=transparent" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitech-africa-ltd&theme=transparent" width="49%"/>
-
-</div>
-
----
-
-# 🔄 ENGINEERING PIPELINE
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-🔎<br>
-<b>DISCOVER</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🏗️<br>
-<b>ARCHITECT</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🎨<br>
-<b>DESIGN</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-💻<br>
-<b>BUILD</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🧪<br>
-<b>TEST</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🔐<br>
-<b>SECURE</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🚀<br>
-<b>DEPLOY</b>
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🎨 DESIGN PHILOSOPHY
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-
-### 🎯 CLARITY
-
-Clean interfaces
-Clear navigation
-Useful information
-
-</td>
-
-<td align="center">
-
-### ⚡ PERFORMANCE
-
-Fast applications
-Optimized assets
-Efficient architecture
-
-</td>
-
-<td align="center">
-
-### 📱 RESPONSIVE
-
-Desktop
-Tablet
-Mobile
-
-</td>
-
-<td align="center">
-
-### 🔐 SECURITY
-
-Authentication
-Authorization
-Data protection
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🌍 DIGITAL TRANSFORMATION
-
-<div align="center">
-
-```text
-                         🌍 AFRICA
-                            │
-             ┌──────────────┴──────────────┐
-             │                             │
-          🏢 BUSINESS                 🏛️ INSTITUTIONS
-             │                             │
-             └──────────────┬──────────────┘
-                            │
-                            ▼
-                     ⚙️ VITECH AFRICA
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-         💻                🌐                📱
-      SOFTWARE             WEB              MOBILE
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            │
-                       🤖 AI + DATA
-                            │
-                         ☁️ CLOUD
-                            │
-                       ▲ VERCEL
-                            │
-                       🚀 PRODUCTION
-```
-
-</div>
-
----
-
-# 🤝 COLLABORATION
-
-We are open to collaboration with:
-
-* 🏢 Companies
-* 🏛️ Institutions
-* 🎓 Universities
-* 🚀 Startups
-* 🌍 NGOs
-* 💡 Entrepreneurs
-* 👨‍💻 Developers
-* 🌐 Technology partners
-
----
-
-# 📞 CONTACT
-
-<div align="center">
-
-## 🚀 LET'S BUILD THE FUTURE
-
-### VITECH AFRICA LTD
-
-**Software Engineering • AI • Design • Digital Transformation**
-
-<br>
-
-<a href="https://vitechafrica.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20WEBSITE-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/vitech-africa-ltd">
-<img src="https://img.shields.io/badge/💻%20GITHUB-0F172A?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://vercel.com/vitech-africa-ltd-projects">
-<img src="https://img.shields.io/badge/▲%20VERCEL-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<br><br>
-
-📧 **Business:** [contact.vabidriss@gmail.com](mailto:contact.vabidriss@gmail.com)
-
-<br>
-
-📧 **Technology:** [contact.vitechdev@gmail.com](mailto:contact.vitechdev@gmail.com)
-
-</div>
-
----
-
-# 🔗 QUICK ACCESS
-
-<div align="center">
-
-<a href="#-home">🏠 HOME</a>
-  •   <a href="#-projects">🚀 PROJECTS</a>
-  •   <a href="#-vercel-live-projects">▲ VERCEL</a>
-  •   <a href="#-github-analytics">📊 ANALYTICS</a>
-  •   <a href="#-contribution-calendar">📅 ACTIVITY</a>
-  •   <a href="#-contact">📞 CONTACT</a>
-
-</div>
-
----
-
-<a name="contact"></a>
-
-## 📞 Let's Build Something Meaningful
-
-<div align="center">
-
-# VITECH AFRICA LTD
-
-### Software Engineering · AI · Digital Products · Cloud · Design
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=700&color=2563EB&center=true&vCenter=true&width=900&lines=ENGINEERING+THE+DIGITAL+FUTURE+OF+AFRICA;WEB+%7C+MOBILE+%7C+DESKTOP+SOFTWARE;AI+%7C+AUTOMATION+%7C+BUSINESS+SYSTEMS;FROM+IDEA+TO+PRODUCTION" alt="Animated Vitech Africa tagline"/>
 
 <br/>
 
-<a href="mailto:contact.vabidriss@gmail.com">
-<img src="https://img.shields.io/badge/📧%20BUSINESS%20CONTACT-2563EB?style=for-the-badge" alt="Business Contact"/>
-</a>
+<a href="https://vitechafrica.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-Visit%20Vitech%20Africa-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://github.com/vitech-africa-ltd"><img src="https://img.shields.io/badge/GITHUB-Explore%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://vercel.com/vitech-africa-ltd-projects"><img src="https://img.shields.io/badge/VERCEL-Live%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel projects"/></a>
+<a href="mailto:contact.vabidriss@gmail.com"><img src="https://img.shields.io/badge/CONTACT-Business%20Inquiries-16A34A?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-Full%20Stack-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-Automation-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud-Vercel-000000?style=flat-square&logo=vercel"/>
+<img src="https://img.shields.io/badge/Focus-Digital%20Transformation-0891B2?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🔗 Connect
+## 🧭 Navigation
 
-<div align="center">
-
-<a href="https://github.com/vitech-africa-ltd">
-<img src="https://img.shields.io/badge/💻%20GITHUB%20ORGANIZATION-020617?style=for-the-badge&logo=github&logoColor=white" alt="Vitech Africa GitHub organization"/>
-</a>
-
-<a href="mailto:contact.vabidriss@gmail.com">
-<img src="https://img.shields.io/badge/📧%20BUSINESS-2563EB?style=for-the-badge" alt="Business email"/>
-</a>
-
-</div>
-
-> Additional website, LinkedIn, YouTube, WhatsApp and repository buttons should be connected here once their verified destinations are available.
+<p align="center">
+<a href="#-about-us">About</a> •
+<a href="#-what-we-build">Services</a> •
+<a href="#-technology-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-github-analytics">Analytics</a> •
+<a href="#-connect-with-vitech-africa">Contact</a>
+</p>
 
 ---
 
+## 🌍 About Us
+
+**Vitech Africa Ltd** is a technology and digital engineering brand focused on building practical digital solutions for businesses, educational institutions, healthcare providers, organizations, and entrepreneurs.
+
+We bring together software engineering, modern web technologies, mobile solutions, automation, cloud deployment, and digital design to turn ideas and operational needs into useful products.
+
+> **Our mission:** Build reliable, accessible, and scalable digital solutions that help organizations work smarter and grow.
+
+### Our approach
+
+`DISCOVER` → `PLAN` → `DESIGN` → `DEVELOP` → `TEST` → `DEPLOY` → `IMPROVE`
+
+---
+
+## ⚡ What We Build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💻 Custom Software
+- Business management systems
+- Inventory, sales and purchasing
+- School management platforms
+- Clinic and hospital workflows
+- Desktop applications
+- Custom internal tools
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Web Engineering
+- Corporate websites
+- Web applications and dashboards
+- E-commerce experiences
+- SaaS product interfaces
+- REST API integrations
+- Responsive user interfaces
+
+</td>
+<td width="33%" valign="top">
+
+### 📱 Mobile Solutions
+- Android applications
+- Flutter and cross-platform apps
+- Mobile-friendly dashboards
+- API-connected applications
+- Digital payment integrations
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🤖 AI & Automation
+- AI-powered product concepts
+- Workflow automation
+- Intelligent assistants
+- Data-oriented features
+- Business process improvement
+
+</td>
+<td valign="top">
+
+### ☁️ Cloud & Delivery
+- GitHub-based workflows
+- Vercel deployments
+- Application configuration
+- Release and deployment support
+- Maintenance and improvements
+
+</td>
+<td valign="top">
+
+### 🎨 Digital Design
+- UI/UX concepts
+- Brand and logo design
+- Graphic design assets
+- Presentation and marketing materials
+- Product visual identity
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
 <div align="center">
 
-<a href="#home">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1D4ED8,50:0F172A,100:020617&section=footer&animation=fadeIn" alt="Vitech Africa footer"/>
-</a>
+**Frontend**
 
-# VITECH AFRICA
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,bootstrap" alt="Frontend technologies"/>
 
-### ENGINEERING THE DIGITAL FUTURE OF AFRICA
+**Backend & Programming**
 
-**Software • AI • Cloud • Design**
+<img src="https://skillicons.dev/icons?i=php,laravel,python,cs,cpp,dotnet,nodejs" alt="Backend and programming technologies"/>
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,android" alt="Mobile technologies"/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase" alt="Database technologies"/>
+
+**Tools, Cloud & Design**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,npm,figma,vscode" alt="Development tools"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 Vitech School Management System
+
+A digital platform concept for organizing school administration and academic workflows.
+
+**Focus areas**
+- Student and class management
+- Attendance and academic records
+- Payments and reporting
+- Administrative workflows
+
+**Technology:** Web application
+
+<p>
+<a href="https://vitechsms.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-2563EB?style=for-the-badge" alt="Open school management demo"/></a>
+<a href="https://github.com/vitech-africa-ltd/s.m"><img src="https://img.shields.io/badge/SOURCE%20CODE-0F172A?style=for-the-badge&logo=github" alt="School system source"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🦷 Izy Clinic
+
+A web-based clinic project focused on supporting dental clinic workflows.
+
+**Focus areas**
+- Patient information
+- Appointments
+- Treatment records
+- Clinic administration
+
+<p>
+<a href="https://izy-clinic.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-2563EB?style=for-the-badge" alt="Open Izy Clinic demo"/></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Vitech Hospital Manager
+
+A hospital management project concept for coordinating healthcare administration.
+
+**Focus areas**
+- Patient and doctor workflows
+- Appointments and records
+- Billing and reporting
+
+<p>
+<a href="https://vitech-hospital-manager.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PROJECT-2563EB?style=for-the-badge" alt="Open hospital manager"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏪 Vitech Business Manager
+
+A Windows desktop business management application built around stock and business operations.
+
+**Technology:** C# · WPF · .NET 8 · SQLite
+
+**Focus areas**
+- Inventory and products
+- Sales and purchases
+- Customers and suppliers
+- Expenses and reports
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⭐ Kivu Stars Academy
+
+An education platform project for early-years school operations.
+
+<p>
+<a href="https://kivu-s-academy.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-2563EB?style=for-the-badge" alt="Open Kivu Stars Academy"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Vitech Africa Website
+
+The Vitech Africa digital presence and service overview.
+
+<p>
+<a href="https://vitechafrica.vercel.app/"><img src="https://img.shields.io/badge/VISIT%20WEBSITE-2563EB?style=for-the-badge" alt="Visit Vitech Africa website"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://vercel.com/vitech-africa-ltd-projects"><img src="https://img.shields.io/badge/▲%20EXPLORE%20VERCEL%20PROJECTS-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Vercel projects"/></a>
+<a href="https://github.com/vitech-africa-ltd"><img src="https://img.shields.io/badge/BROWSE%20ALL%20REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Browse GitHub repositories"/></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vitech-africa-ltd&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github&custom_title=Vitech%20Africa%20GitHub%20Statistics" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitech-africa-ltd&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages"/>
 
 <br/>
 
-© 2026 **VITECH AFRICA LTD** · All Rights Reserved.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitech-africa-ltd&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitech-africa-ltd&bg_color=ffffff00&color=2563EB&line=2563EB&point=0F172A&area=true&hide_border=true&custom_title=Vitech%20Africa%20Development%20Activity" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
+> Note: GitHub statistics and activity widgets are generated by third-party services. Their availability and displayed metrics may vary.
 
+---
+
+## 🤝 Collaboration
+
+We welcome opportunities to collaborate with:
+- Businesses and entrepreneurs
+- Schools and educational institutions
+- Clinics and service organizations
+- Developers and technology teams
+- Startups and digital product creators
+
+For project inquiries, include a short description of your needs, expected deliverables, and preferred timeline.
+
+---
+
+## 📬 Connect with Vitech Africa
+
+<div align="center">
+
+### LET'S BUILD SOMETHING MEANINGFUL
+
+<a href="https://vitechafrica.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://github.com/vitech-africa-ltd"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://vercel.com/vitech-africa-ltd-projects"><img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
+
+**Business inquiries:** [contact.vabidriss@gmail.com](mailto:contact.vabidriss@gmail.com)  
+**Technology inquiries:** [contact.vitechdev@gmail.com](mailto:contact.vitechdev@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:0F172A,100:020617&height=120&section=footer" width="100%" alt="Vitech Africa footer"/>
+
+**VITECH AFRICA LTD**  
+*Engineering the Digital Future of Africa*
+
+© 2026 Vitech Africa Ltd. All rights reserved.
+
+</div>
